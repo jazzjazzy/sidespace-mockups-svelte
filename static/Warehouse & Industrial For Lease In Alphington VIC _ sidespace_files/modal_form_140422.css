@@ -1,0 +1,868 @@
+#concierge_modal .modal-dialog {
+	margin-top: 50px;
+	max-width: 700px;
+}
+
+#concierge_modal .modal-header {
+    padding: 40px 30px 0px 30px;
+    border: 0;
+}
+
+#concierge_modal .modal-header button.close {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    font-size: 2em;
+    font-weight: normal;
+    opacity: 1;
+    margin-top: 0;
+}
+
+#concierge_modal .modal-header > div:last-child {
+    margin: 15px 0;
+}
+
+#concierge_modal .modal-header > div:last-child > div {
+	display: inline-block;
+    padding: 6px 8px;
+    border-radius: 15px;
+    background-color: #F1F2FF;
+    border: 2px solid #182AF1;
+    color: #182AF1;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+#concierge_modal .modal-header .fa {
+	font-size: 14px;
+	vertical-align: -1px;
+	margin-right: 2px;
+}
+
+#concierge_modal .modal-content {
+	border-radius: 10px;
+}
+
+#concierge_modal .modal-title {
+    font-family: 'Samsung Sharp Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    line-height: 1.3em;
+    margin-bottom: 5px;
+}
+
+#concierge_modal .modal-body-concierge {
+    padding: 30px !important;
+    text-align: center !important;
+}
+
+#concierge_modal #nav .inner-container {
+	max-width: 900px;
+}
+
+#concierge_modal ul.navbar-left > li {
+	padding: 17px 15px;
+	font-size: 11px;
+	font-weight: 800;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+#concierge_modal a.exit {
+	padding: 15px 21px;
+    display: inline-block;
+    color: rgba(255,255,255,0.9);
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+#concierge_modal #content {
+	padding-top: 30px;
+}
+
+#concierge_modal #content .inner-container {
+	max-width: 930px;
+}
+
+#concierge_modal #form_header .inner-container {
+/*	padding: 0px 15px;*/
+}
+
+#concierge_modal #progress-bar-labels {
+	display: flex;
+	justify-content: space-between;
+}
+
+#concierge_modal #progress-bar-labels > div {
+/*	display: inline-block;*/
+	width: 20%;
+	text-align: left;
+	font-size: 12px;
+	color: #bfbfbf;
+}
+
+#concierge_modal #progress-bar-labels > div.completed {
+	color: #1E1D1F;
+}
+
+#concierge_modal #progress-bar-labels > div.active {
+	font-weight: 800;
+	color: #182AF1;
+}
+
+#concierge_modal #progress-bar {
+	margin-top: 10px;
+	position: relative;
+	width: 100%;
+	height: 6px;
+	border-radius: 3px;
+	background-color: #e6e6e6;
+}
+
+#concierge_modal #progress-bar > div {
+	position: absolute;
+	height: 6px;
+	background-color: #182AF1;
+}
+
+#concierge_modal #progress {
+	width: 6px;
+	border-radius: 3px;
+	-webkit-transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000); 
+	-moz-transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000); 
+	-o-transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000); 
+	transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000);
+}
+
+#concierge_modal #form {
+	padding-top: 40px;
+}
+
+#concierge_modal #form .col-sm-7 {
+	padding-right: 50px;
+	border-right: 1px solid #ebebeb;
+}
+
+#concierge_modal .m-step {
+	display: none;
+	margin-bottom: 10px;
+	font-size: 11px;
+	font-weight: 700;
+	color: #898989;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+}
+
+#concierge_modal .step .qn {
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: -0.015em;
+	margin-bottom: 20px;
+}
+
+#concierge_modal .selectize-dropdown [data-selectable] .highlight {
+	font-weight: 800;
+	background: transparent;
+}
+
+#concierge_modal input[type=radio] {
+	display: none;
+}
+
+#concierge_modal .property-type-container {
+	display: flex;
+	justify-content: space-between;
+	gap: 9px;
+	flex-wrap: wrap;
+}
+
+#concierge_modal .property-type-container > label {
+	flex-basis: 32.2%;
+}
+
+#concierge_modal label.selection {
+	display: block;
+	padding: 12px 15px;
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: 400;
+	color: #666666;
+	border-radius: 3px;
+	border: 1px solid #cccccc;
+	margin-bottom: 0px;
+}
+
+#concierge_modal label.selection:last-of-type {
+	margin-bottom: 0px;
+}
+
+#concierge_modal label.selection.selected {
+	color: #182AF1;
+	background-color: #F1F2FF;
+	font-weight: 700;
+	border: 1px solid #182AF1;
+}
+
+#concierge_modal div.other-input {
+	padding-top: 20px;
+	display: flex;
+	align-items: center;
+}
+
+#concierge_modal div.other-input label {
+	text-align: left;
+	font-weight: 700;
+}
+
+#concierge_modal div.other-input input {
+	margin-left: 15px;
+    flex: 2;
+	border-color: #cccccc;
+	border-radius: 3px;
+    padding: 0;
+}
+
+#concierge_modal div.step {
+	display: none;
+}
+
+#concierge_modal div.step.active {
+	display: block;
+}
+
+#concierge_modal #form-container {
+/*	min-height: 355px;*/
+}
+
+#concierge_modal #nav-btns {
+	padding-top: 30px;
+}
+
+#concierge_modal button,
+input[type="submit"] {
+	display: inline-block;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-ms-appearance: none;
+	background-color: transparent;
+	font-size: 14px;
+	border: 0px;
+	padding: 0px;
+}
+
+#concierge_modal button.nav-btn.back,
+button.nav-btn.skip {
+	color: #302F32;
+    font-weight: 700;
+    line-height: 1;
+    padding: 12px 15px;
+    border-radius: 5px;
+    border: 1px solid #302F32;
+}
+
+#concierge_modal button.nav-btn.next,button#submit_btn {
+	font-weight: 700;
+	line-height: 1;
+	color: #ffffff;
+	background-color: #182AF1;
+	border: 1px solid #182AF1;
+	padding: 12px 15px;
+	border-radius: 5px;
+}
+
+#concierge_modal button.nav-btn.next i {
+	font-size: 16px;
+	margin-left: 5px;
+	vertical-align: -1px;
+}
+
+#concierge_modal #submit-btn {
+	display: none;
+	border: 0px;
+}
+
+#concierge_modal .backward {
+	text-align: left;
+}
+
+#concierge_modal .forward {
+	text-align: right;
+}
+
+#concierge_modal .show-more {
+	display: block;
+	text-align: right;
+	padding-top: 10px;
+}
+
+#concierge_modal .show-more a {
+	text-decoration: underline;
+	color: #898989;
+	font-size: 13px;
+	font-weight: 600;
+	cursor: pointer;
+}
+
+#concierge_modal .more-types {
+	display: none;
+	padding-top: 10px;
+}
+
+#concierge_modal #location .selectize-input,
+#concierge_modal #size-sqm {
+	border-radius: 3px;
+	border-color: #cccccc;
+	text-align: center;
+}
+
+#concierge_modal .popular {
+	padding-top: 30px;
+}
+
+#concierge_modal .popular p {
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: 800;
+	letter-spacing: 0.095em;
+	margin-bottom: 15px;
+}
+
+#concierge_modal .area-pill, .sqm-pill {
+	display: inline-block;
+	font-size: 12px;
+	color: #898989;
+	padding: 6px 16px;
+	margin-right: 3px;
+	margin-bottom: 8px;
+	border-radius: 25px;
+	border: 1px solid #cccccc;
+	cursor: pointer;
+}
+
+#concierge_modal div.selected {
+	color: #182AF1;
+	border-color: #182AF1;
+	background-color: #F1F2FF;
+	font-weight: 700;
+}
+
+#concierge_modal .no-select {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none; 
+}
+
+#concierge_modal #size .qn span:not(.active) {
+	display: none;
+}
+
+#concierge_modal .size-group:not(.active) {
+	display: none;
+}
+
+#concierge_modal #size-group-01 .selection,
+#concierge_modal #budget .selection {
+	margin-bottom: 10px;
+}
+
+#concierge_modal #budget-amount {
+	padding-top: 30px;
+}
+
+#concierge_modal #budget-amount .input-box,
+#budget-amount .select-box {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#concierge_modal #budget-amount .input-box {
+	width: 60%;
+	padding-right: 10px;
+}
+
+#concierge_modal #budget-amount .select-box {
+	width: 40%;
+}
+
+#concierge_modal #budget-amount .input-box span {
+	width: 35px;
+	display: inline-block;
+	border: 1px solid #cccccc;
+	border-right: 0px;
+	border-radius: 3px 0px 0px 3px;
+	padding: 12px 15px 0px 15px;
+	min-height: 46px;
+	vertical-align: top;
+}
+
+#concierge_modal #budget-amount .input-box.with-span input {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-ms-appearance: none;
+	display: inline-block;
+	width: calc(100% - 35px);
+	width: -moz-calc(100% - 35px);
+	width: -webkit-calc(100% - 35px);
+	width: -o-calc(100% - 35px);
+	padding: 12px 15px 12px 0px;
+	font-size: 14px;
+	border-left: 0px;
+	border-color: #cccccc;
+	border-radius: 0px 3px 3px 0px;
+}
+
+#concierge_modal #budget-amount select {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	padding: 12px 15px;
+	min-height: 46px;
+	background-image: url('../../images/arrow-down.png');
+	background-size: 14px 8px;
+	background-repeat: no-repeat;
+	background-position: 94% 50%;
+	cursor: pointer;
+}
+
+#concierge_modal .error-msg {
+	display: none;
+	font-weight: 700;
+	color: #ff4e4e;
+	padding-bottom: 20px;
+}
+
+#concierge_modal #summary {
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #ebebeb;
+}
+
+#concierge_modal #summary .row:not(:last-of-type) {
+	margin-bottom: 10px;
+}
+
+#concierge_modal #summary .name {
+	font-weight: 600;
+}
+
+#concierge_modal #form .col-sm-5 {
+	padding-top: 40px;
+	text-align: center;
+}
+
+#concierge_modal #form .col-sm-5 p:first-of-type,
+#help-panel p:first-of-type {
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+
+#concierge_modal #form .col-sm-5 div,
+#help-panel a {
+	padding-top: 10px;
+	font-size: 24px;
+	letter-spacing: -0.5px;
+}
+
+#concierge_modal img.phone {
+	width: 25px;
+	height: 25px;
+	margin-right: 10px;
+	vertical-align: -5px;
+}
+
+#concierge_modal #form .col-sm-5 a,
+#help-panel a {
+	text-decoration: none;
+	color: #1E1D1F;
+}
+
+#concierge_modal #contact-details > div:first-child {
+	font-size: 16px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+#concierge_modal #contact-details .col-sm-2 {
+	padding: 10px 15px;
+	text-align: left;
+}
+
+#concierge_modal .form-row:not(:last-of-type) {
+	padding-bottom: 10px;
+}
+
+#concierge_modal .form-row label {
+	font-weight: 600;
+}
+
+#concierge_modal .form-row .form-control {
+	font-size: 14px;
+}
+
+/*#concierge_modal #call {
+	display: none;
+	background-color: rgba(255,255,255,0.95);
+	position: fixed;
+	top: 23.5px;
+	right: 15px;
+	border-radius: 50px;
+	z-index: 100;
+	padding: 13px;
+	border: 1px solid #e6e6e6;
+	box-shadow: rgba(0, 0, 0, 0.09) 0px 0px 10px 0px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.09) 0px 0px 10px 0px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.09) 0px 0px 10px 0px;
+	cursor: pointer;
+}*/
+
+#concierge_modal .call {
+	margin-top: 3rem;
+	background-color: #F1F2FF;
+	border-radius: 5px;
+	padding: 20px;
+	display: flex;
+	text-align: left;
+}
+
+#concierge_modal .call .team {
+	margin-top: 0;
+	padding-left: 10px;
+}
+
+#concierge_modal .call .content {
+	padding: 2px 15px 0;
+	letter-spacing: -0.015em;
+}
+
+#concierge_modal .call .content p:first-of-type {
+	font-size: 18px;
+	font-weight: 700;
+}
+
+#concierge_modal .call .content {
+	padding: 0 20px;
+}
+
+#concierge_modal .call .phone-number {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 3;
+	font-size: 22px;
+}
+
+#concierge_modal .call i {
+	color: #182AF1;
+	font-size: 20px;
+	padding-right: 8px;
+}
+
+#concierge_modal .call a {
+	color: #182AF1;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+#concierge_modal #call img {
+	width: 25px;
+	height: 25px;
+}
+
+#concierge_modal .contact-imgs {
+	padding-top: 15px;
+}
+
+#concierge_modal .contact-img {
+	display: inline-block;
+}
+
+#concierge_modal .contact-img:first-of-type {
+	position: relative;
+	z-index: 999;
+}
+
+#concierge_modal .contact-img:last-of-type {
+	margin-left: -15px;
+}
+
+#concierge_modal .contact-img img {
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	border: 2px solid #ffffff;
+}
+
+#concierge_modal #help {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: -101;
+	display: flex;
+	opacity: 0;
+	-webkit-transition: opacity 200ms ease-in-out;
+    -moz-transition: opacity 200ms ease-in-out;
+    -o-transition: opacity 200ms ease-in-out;
+    transition: opacity 200ms ease-in-out;
+}
+
+#concierge_modal #overlay {
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	background-color: rgba(0,0,0,0.25);
+}
+
+#concierge_modal #help-panel {
+	text-align: center;
+	position: relative;
+	z-index: 102;
+	padding: 30px;
+	background-color: #ffffff;
+	border-radius: 3px;
+	margin: auto;
+	box-shadow: 0 0 0 1px rgba(0,0,0,0.11), 0 8px 8px rgba(0,0,0,0.04);
+	-moz-box-shadow: 0 0 0 1px rgba(0,0,0,0.11), 0 8px 8px rgba(0,0,0,0.04);
+	-webkit-box-shadow: 0 0 0 1px rgba(0,0,0,0.11), 0 8px 8px rgba(0,0,0,0.04);
+}
+
+#concierge_modal #close-panel {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	width: 12px;
+	height: 12px;
+}
+
+#concierge_modal #help-panel p:last-of-type {
+	margin-bottom: 0px;
+}
+
+#concierge_modal .modal-footer {
+	padding: 0;
+}
+
+@media (min-width: 992px) {
+	#concierge_modal a.exit {
+		display: none;
+	}
+}
+
+@media (min-width: 768px) {
+	#concierge_modal .container {
+		width: 100%;
+	}
+}
+
+@media (max-width: 630px) {
+	#concierge_modal .property-type-container > label {
+		flex-basis: 100%;
+	}
+
+	#concierge_modal .call {
+		padding: 20px 15px 15px;
+		text-align: center;
+	    flex-direction: column;
+	    align-items: center;
+	    gap: 15px;
+	}
+
+	#concierge_modal .call .phone-number {
+		margin-top: -5px;
+	}
+}
+
+@media (max-width: 767px) {
+	.modal.modal-wide .modal-dialog {
+		width: 100%;
+	}
+
+	#concierge_modal .modal-dialog {
+		margin: 0 auto;
+		max-width: 700px;
+	}
+
+	#concierge_modal .modal-content {
+		margin: 30px 20px;
+	}
+
+	#concierge_modal .modal-header {
+	    padding: 30px 20px 0px 20px;
+	}
+
+	#concierge_modal .modal-body-concierge {
+		padding: 20px !important;
+	}
+
+	#concierge_modal .modal-title {
+		font-size: 20px;
+	}
+
+	#concierge_modal #content {
+		padding-top: 0px;
+	}
+
+	#concierge_modal #form_header .inner-container {
+		padding: 0px;
+	}
+
+	#concierge_modal #progress-bar-labels {
+		display: none;
+	}
+
+	#concierge_modal #progress-bar {
+		margin-top: 0px;
+	}
+
+	/*#concierge_modal #progress-bar > div {
+		border-top-left-radius: 0px;
+		border-bottom-left-radius: 0px;
+	}*/
+
+	#concierge_modal #form {
+		padding-top: 20px;
+	}
+
+	#concierge_modal #form .col-sm-7 {
+		padding: 0px 20px;
+		border: 0px;
+	}
+
+	#concierge_modal #form .col-sm-5 {
+		display: none;
+	}
+
+	#concierge_modal .m-step {
+		display: block;
+	}
+
+	#concierge_modal .step .qn {
+		font-size: 16px;
+	}
+
+	/* #concierge_modal #nav-btns {
+		position: fixed;
+		bottom: 0px;
+		left: 15px;
+		width: 100%;
+		z-index: 100;
+		padding: 15px 0px;
+		border-top: 1px solid #f5f5f5;
+		background-color: #ffffff;
+	} */
+
+	#concierge_modal .scroll {
+		box-shadow: rgba(0, 0, 0, 0.09) 0px -15px 30px -13px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.09) 0px -15px 30px -13px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.09) 0px -15px 30px -13px;
+	}
+
+	#concierge_modal .backward {
+/*		padding: 11px 15px;*/
+	}
+
+	#concierge_modal button.nav-btn.next,
+	#submit-btn {
+		padding: 12px 30px;
+		margin-left: 20px;
+	}
+
+	#concierge_modal #summary {
+		padding-bottom: 20px;
+		margin-bottom: 20px;
+	}
+
+	#concierge_modal #summary .row:not(:last-of-type) {
+		margin-bottom: 15px;
+	}
+
+	#concierge_modal #summary .name {
+		padding-bottom: 3px;
+	}
+
+	#concierge_modal #contact-details .col-sm-2 {
+		padding: 0px 15px;
+	}
+
+	#concierge_modal #call {
+		display: block;
+	}
+
+	#concierge_modal #contact-details > div:first-child {
+		font-size: 14px;
+		margin-bottom: 20px;
+	}
+
+	#concierge_modal .call .content p:first-of-type,
+	#concierge_modal .call .phone-number {
+		font-size: 16px;
+	}
+
+	#concierge_modal .call {
+		padding: 15px;
+	}
+
+	.team img {
+		height: 40px;
+		width: 40px;
+	}
+}
+
+@media (max-width: 575px) {
+	#concierge_modal .modal-header {
+	    padding: 50px 20px 0px 20px;
+	}
+
+	#concierge_modal .modal-header button.close {
+		right: 20px;
+	}
+
+	#concierge_modal .modal-content {
+		margin: 0;
+		border-radius: 0;
+	}
+
+	#concierge_modal .modal-title {
+	    font-size: 18px;
+	}
+}
+
+@media (max-width: 374px) {
+	#concierge_modal #budget-amount .input-box {
+		width: 100%;
+		padding-right: 0px;
+		padding-bottom: 10px;
+	}
+
+	#concierge_modal #budget-amount .select-box {
+		width: 100%;
+	}
+
+	#concierge_modal #budget-amount select {
+		background-position: 93% 50%;
+	}
+}
+
+
+/* My Changes */
+
+.modal-dialog.modal-width {
+    max-width: 700px !important;
+    width: 100%;
+}
+#concierge_modal label.selection {
+    width: 100%;
+}
+.modal-space {
+    padding: 50px 0px;
+}
+
