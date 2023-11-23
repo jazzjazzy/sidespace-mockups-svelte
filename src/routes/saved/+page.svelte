@@ -316,17 +316,12 @@
 
 		<div id="results">
 			<div class="inner-container">
-				<div class="w-full">
+				<div class="w-full" >
 					<div id="banners-col">
 						<div class="border border-gray-300">
 							<div class="py-3 border"><h4 class="m-3 border-black border-b-2">Alphington</h4></div>
 							<ul>
-								<li class="py-2 px-3">
-									<a
-										href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
-										>Part Tenancy N, 45 Grosvenor Street, Abbotsford VIC 3067</a
-									>
-								</li>
+							
 								<li class="py-2 px-3">
 									<a
 										href="https://sidespace.com.au/for-lease/327-darebin-rd-thornbury-vic-3071-nslpropertygroup-nsl_73_147"
@@ -339,162 +334,18 @@
 										>1-5 Weston Street, Brunswick VIC 3056</a
 									>
 								</li>
+								<li class="py-2 px-3">
+									<a
+										href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
+										>Part Tenancy N, 45 Grosvenor Street, Abbotsford VIC 3067</a
+									>
+								</li>
 							</ul>
 						</div>
 					</div>
 					<div class="w-3/4">
 						<div id="properties">
-							<div class="property">
-								<div class="header" style="background-color: #c9c9c7;">
-									<div class="brand">
-										<img
-											src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/632066aadb61d-tiga.png"
-											class="loading"
-											data-was-processed="true"
-										/>
-									</div>
-								</div>
-								<a
-									href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
-									onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
-								>
-								</a>
-								<div class="details full-width-image">
-									<a
-										href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
-										onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
-									>
-									</a>
-									<div class="row">
-										<a
-											href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
-											onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
-										>
-										</a>
-										<div class="image-col">
-											<a
-												href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
-												onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
-											>
-											</a>
-											<div class="property-image-wrap">
-												<a
-													href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
-													onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
-												>
-												</a>
-												<div
-													id="carousel_4644"
-													class="carousel slide"
-													data-ride="carousel"
-													data-interval="0"
-													data-pause="hover"
-												>
-													<a
-														href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
-														onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
-													>
-														<div class="carousel-inner" role="listbox">
-															<div class="item active">
-																<div class="item-container">
-																	<img
-																		src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137-6322e29fcc278.jpg-1000x650.jpg"
-																		data-original="https://d1ohh7hm3j7ub5.cloudfront.net/property-images/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137-6322e29fcc278.jpg-1000x650.jpg"
-																		class="property-image-carousel initial loaded"
-																		alt="Industrial/Warehouse, Offices For Lease - Part Tenancy N, 45 Grosvenor Street, Abbotsford VIC 3067"
-																		title="Flexible Warehouse Site with Secure Loading Facilities"
-																		data-was-processed="true"
-																	/>
-																</div>
-															</div>
-															<div class="item">
-																<div class="item-container">
-																	<img
-																		src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/preloaded_image.png"
-																		data-original="https://d1ohh7hm3j7ub5.cloudfront.net/property-images/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137-6322e29f3f198.jpg-1000x650.jpg"
-																		class="property-image-carousel"
-																		alt="Industrial/Warehouse, Offices For Lease - Part Tenancy N, 45 Grosvenor Street, Abbotsford VIC 3067"
-																		title="Flexible Warehouse Site with Secure Loading Facilities"
-																	/>
-																</div>
-															</div>
-															<div class="item">
-																<div class="item-container">
-																	<img
-																		src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/preloaded_image.png"
-																		data-original="https://d1ohh7hm3j7ub5.cloudfront.net/property-images/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137-6322e29f616f9.jpg-1000x650.jpg"
-																		class="property-image-carousel"
-																		alt="Industrial/Warehouse, Offices For Lease - Part Tenancy N, 45 Grosvenor Street, Abbotsford VIC 3067"
-																		title="Flexible Warehouse Site with Secure Loading Facilities"
-																	/>
-																</div>
-															</div>
-														</div>
-													</a><a
-														class="left carousel-control"
-														href="https://sidespace.com.au/for-lease/industrial-warehouse/alphington-vic#carousel_4644"
-														role="button"
-														data-slide="prev"
-													>
-														<!-- <span class="fa fa-3x fa-angle-left"></span>
-															<span class="sr-only">Previous</span> -->
-														<img
-															src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/carousel-prev.svg"
-															class="initial loading"
-															data-was-processed="true"
-														/>
-													</a>
-													<a
-														class="right carousel-control"
-														href="https://sidespace.com.au/for-lease/industrial-warehouse/alphington-vic#carousel_4644"
-														role="button"
-														data-slide="next"
-													>
-														<!-- <span class="fa fa-3x fa-angle-right"></span>
-															<span class="sr-only">Next</span> -->
-														<img
-															src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/carousel-next.svg"
-															class="initial loading"
-															data-was-processed="true"
-														/>
-													</a>
-												</div>
-											</div>
-											<div class="property-type">
-												<span>Industrial/Warehouse</span>
-												<span>Offices</span>
-											</div>
-										</div>
-
-										<div class="info-col">
-											<a
-												href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
-												onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
-											>
-												<div class="info-top">
-													<!-- <div class="property-type">
-																											<span>Industrial/Warehouse</span>
-																											<span>Offices</span>
-																									</div> -->
-													<div class="address">
-														Part Tenancy N, 45 Grosvenor Street, Abbotsford VIC 3067
-													</div>
-													<div class="property-title">
-														Flexible Warehouse Site with Secure Loading Facilities
-													</div>
-												</div>
-											</a>
-											<div class="info-bottom">
-												<!-- Area -->
-												<div class="property-area">
-													<div>174 m2</div>
-												</div>
-												<!-- Price -->
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
+							
 							<!-- Ad -->
 
 							<div class="property">
@@ -796,6 +647,158 @@
 												<!-- Area -->
 												<div class="property-area">
 													<div>1,965m<sup>2</sup></div>
+												</div>
+												<!-- Price -->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Ad -->
+							<div class="property">
+								<div class="header" style="background-color: #c9c9c7;">
+									<div class="brand">
+										<img
+											src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/632066aadb61d-tiga.png"
+											class="loading"
+											data-was-processed="true"
+										/>
+									</div>
+								</div>
+								<a
+									href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
+									onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
+								>
+								</a>
+								<div class="details full-width-image">
+									<a
+										href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
+										onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
+									>
+									</a>
+									<div class="row">
+										<a
+											href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
+											onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
+										>
+										</a>
+										<div class="image-col">
+											<a
+												href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
+												onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
+											>
+											</a>
+											<div class="property-image-wrap">
+												<a
+													href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
+													onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
+												>
+												</a>
+												<div
+													id="carousel_4644"
+													class="carousel slide"
+													data-ride="carousel"
+													data-interval="0"
+													data-pause="hover"
+												>
+													<a
+														href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
+														onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
+													>
+														<div class="carousel-inner" role="listbox">
+															<div class="item active">
+																<div class="item-container">
+																	<img
+																		src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137-6322e29fcc278.jpg-1000x650.jpg"
+																		data-original="https://d1ohh7hm3j7ub5.cloudfront.net/property-images/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137-6322e29fcc278.jpg-1000x650.jpg"
+																		class="property-image-carousel initial loaded"
+																		alt="Industrial/Warehouse, Offices For Lease - Part Tenancy N, 45 Grosvenor Street, Abbotsford VIC 3067"
+																		title="Flexible Warehouse Site with Secure Loading Facilities"
+																		data-was-processed="true"
+																	/>
+																</div>
+															</div>
+															<div class="item">
+																<div class="item-container">
+																	<img
+																		src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/preloaded_image.png"
+																		data-original="https://d1ohh7hm3j7ub5.cloudfront.net/property-images/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137-6322e29f3f198.jpg-1000x650.jpg"
+																		class="property-image-carousel"
+																		alt="Industrial/Warehouse, Offices For Lease - Part Tenancy N, 45 Grosvenor Street, Abbotsford VIC 3067"
+																		title="Flexible Warehouse Site with Secure Loading Facilities"
+																	/>
+																</div>
+															</div>
+															<div class="item">
+																<div class="item-container">
+																	<img
+																		src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/preloaded_image.png"
+																		data-original="https://d1ohh7hm3j7ub5.cloudfront.net/property-images/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137-6322e29f616f9.jpg-1000x650.jpg"
+																		class="property-image-carousel"
+																		alt="Industrial/Warehouse, Offices For Lease - Part Tenancy N, 45 Grosvenor Street, Abbotsford VIC 3067"
+																		title="Flexible Warehouse Site with Secure Loading Facilities"
+																	/>
+																</div>
+															</div>
+														</div>
+													</a><a
+														class="left carousel-control"
+														href="https://sidespace.com.au/for-lease/industrial-warehouse/alphington-vic#carousel_4644"
+														role="button"
+														data-slide="prev"
+													>
+														<!-- <span class="fa fa-3x fa-angle-left"></span>
+															<span class="sr-only">Previous</span> -->
+														<img
+															src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/carousel-prev.svg"
+															class="initial loading"
+															data-was-processed="true"
+														/>
+													</a>
+													<a
+														class="right carousel-control"
+														href="https://sidespace.com.au/for-lease/industrial-warehouse/alphington-vic#carousel_4644"
+														role="button"
+														data-slide="next"
+													>
+														<!-- <span class="fa fa-3x fa-angle-right"></span>
+															<span class="sr-only">Next</span> -->
+														<img
+															src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/carousel-next.svg"
+															class="initial loading"
+															data-was-processed="true"
+														/>
+													</a>
+												</div>
+											</div>
+											<div class="property-type">
+												<span>Industrial/Warehouse</span>
+												<span>Offices</span>
+											</div>
+										</div>
+
+										<div class="info-col">
+											<a
+												href="https://sidespace.com.au/for-lease/45-grosvenor-street-abbotsford-vic-3067-6322e26c25137"
+												onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Seeking&#39;, &#39;Search Click&#39;, &#39;Clicked Any Listing&#39;);"
+											>
+												<div class="info-top">
+													<!-- <div class="property-type">
+																											<span>Industrial/Warehouse</span>
+																											<span>Offices</span>
+																									</div> -->
+													<div class="address">
+														Part Tenancy N, 45 Grosvenor Street, Abbotsford VIC 3067
+													</div>
+													<div class="property-title">
+														Flexible Warehouse Site with Secure Loading Facilities
+													</div>
+												</div>
+											</a>
+											<div class="info-bottom">
+												<!-- Area -->
+												<div class="property-area">
+													<div>174 m2</div>
 												</div>
 												<!-- Price -->
 											</div>

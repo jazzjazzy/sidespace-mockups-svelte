@@ -1,6 +1,12 @@
 <script lang="ts">
 	import '../app.css';
 	import type { LayoutData } from './types';
+	import { page } from '$app/stores';
+
+	let activePath = '';
+
+	// Reactive statement to update the active path
+	$: activePath = $page.url.pathname;
 
 	export let data: LayoutData;
 </script>
@@ -11,6 +17,8 @@
 		http-equiv="origin-trial"
 		content="Az520Inasey3TAyqLyojQa8MnmCALSEU29yQFW8dePZ7xQTvSt73pHazLFTK5f7SyLUJSo2uKLesEtEa9aUYcgMAAACPeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="
 	/>
+	<!-- Google tag (gtag.js) -->
+	<!-- Google tag (gtag.js) -->
 	<!-- Google tag (gtag.js) -->
 	<!-- Google tag (gtag.js) -->
 	<!-- Google tag (gtag.js) -->
@@ -202,6 +210,8 @@
 	<!-- Scripts -->
 	<!-- Scripts -->
 	<!-- Scripts -->
+	<!-- Scripts -->
+	<!-- Scripts -->
 	<script
 		src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/jquery.min.js"
 	></script>
@@ -259,6 +269,8 @@
 	<!-- Google Analytics -->
 	<!-- Google Analytics -->
 
+	<!-- Google Analytics -->
+	<!-- Google Analytics -->
 	<!-- Google Analytics -->
 	<!-- Google Analytics -->
 	<!-- Google Analytics -->
@@ -323,26 +335,22 @@
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="full-nav">
 					<ul class="nav navbar-nav navbar-left">
-						<li class="active">
-							<a href="https://sidespace.com.au/for-lease">Lease</a>
+						<li class:active={activePath === '/'}>
+							<a href="/">Lease</a>
 						</li>
 						<li>
-							<a href="https://sidespace.com.au/for-sale">Buy</a>
+							<a href="#">Buy</a>
 						</li>
 						<li>
-							<a href="https://sidespace.com.au/media">News &amp; Media</a>
+							<a href="#">News &amp; Media</a>
 						</li>
-						<li>
+						<li class:active={activePath === '/saved'}>
 							<a href="/saved">Saved</a>
 						</li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
 						<li class="list with-list">
-							<a
-								href="https://sidespace.com.au/list"
-								onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Listing&#39;, &#39;Header Click&#39;, &#39;List Your Property&#39;);"
-								>List with us</a
-							>
+							<a href="https://sidespace.com.au/list">List with us</a>
 						</li>
 						<li class="list tell-list">
 							<a href="https://sidespace.com.au/concierge" class="btn btn-primary"
