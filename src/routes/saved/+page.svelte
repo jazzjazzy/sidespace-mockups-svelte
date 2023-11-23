@@ -22,7 +22,7 @@
 			</li>
 			<li class="item active">
 				<a
-					href="https://sidespace.com.au/for-lease"
+					href="#"
 					onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Nav&#39;, &#39;Mobile Menu Click&#39;, &#39;Lease&#39;);"
 				>
 					<img
@@ -35,7 +35,7 @@
 			</li>
 			<li class="item mt-35">
 				<a
-					href="https://sidespace.com.au/for-sale"
+					href="#"
 					onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Nav&#39;, &#39;Mobile Menu Click&#39;, &#39;Buy&#39;);"
 				>
 					<img
@@ -48,7 +48,7 @@
 			</li>
 			<li class="item mt-35">
 				<a
-					href="https://sidespace.com.au/media"
+					href="#"
 					onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Nav&#39;, &#39;Header Click&#39;, &#39;News &amp; Media&#39;);"
 				>
 					<img
@@ -61,7 +61,7 @@
 			</li>
 			<li class="list">
 				<a
-					href="https://sidespace.com.au/list"
+					href="#"
 					onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Listing&#39;, &#39;Mobile Menu Click&#39;, &#39;List Your Property&#39;);"
 					class="btn btn-primary">List with us</a
 				>

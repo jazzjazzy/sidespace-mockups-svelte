@@ -40,6 +40,7 @@
 	<!-- Google tag (gtag.js) -->
 	<!-- Google tag (gtag.js) -->
 	<!-- Google tag (gtag.js) -->
+	<!-- Google tag (gtag.js) -->
 	<script
 		type="text/javascript"
 		async=""
@@ -212,6 +213,7 @@
 	<!-- Scripts -->
 	<!-- Scripts -->
 	<!-- Scripts -->
+	<!-- Scripts -->
 	<script
 		src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/jquery.min.js"
 	></script>
@@ -277,6 +279,7 @@
 	<!-- Google Analytics -->
 	<!-- Google Analytics -->
 	<!-- Google Analytics -->
+	<!-- Google Analytics -->
 	<script
 		async=""
 		src="./Warehouse &amp; Industrial For Lease In Alphington VIC _ sidespace_files/hotjar-3640797.js"
@@ -312,7 +315,7 @@
 				<div class="navbar-header">
 					<a
 						class="navbar-brand"
-						href="https://sidespace.com.au/"
+						href="#"
 						onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Nav&#39;, &#39;Header Click&#39;, &#39;Home (Logo)&#39;);"
 					>
 						<img
@@ -350,12 +353,10 @@
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
 						<li class="list with-list">
-							<a href="https://sidespace.com.au/list">List with us</a>
+							<a href="#">List with us</a>
 						</li>
 						<li class="list tell-list">
-							<a href="https://sidespace.com.au/concierge" class="btn btn-primary"
-								>Tell us what you need</a
-							>
+							<a href="#" class="btn btn-primary">Tell us what you need</a>
 						</li>
 					</ul>
 				</div>
